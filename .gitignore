@@ -1,0 +1,7 @@
+.idea/
+.venv/
+__pycache__/
+*.pyc
+# "/" isaretinin git uzerindeki anlami klasor yani mappe demektir.Git e bu kalsorleri gorme deriz.
+# "*" isareti joker karekterdir. "wildcard" deseni deniyor. * isareti "buraya herhangi bir isim gelebilir"demektir. yani "adi ne olursa olsun .pyc ile biten dosyayi gorme" diyoruz.
+#README.md markdown demektir. Projeye iliskin bilgiler sunar.
